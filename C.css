@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.back{
+    background-image: url("");
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+}
+
